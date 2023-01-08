@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module 18 Patterns pt2 FinalTask", "Module 18 Patterns pt2 FinalTask\Module 18 Patterns pt2 FinalTask.csproj", "{0AC626CD-BCFA-4E31-B687-DE3B8A6C1B9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC626CD-BCFA-4E31-B687-DE3B8A6C1B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC626CD-BCFA-4E31-B687-DE3B8A6C1B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC626CD-BCFA-4E31-B687-DE3B8A6C1B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC626CD-BCFA-4E31-B687-DE3B8A6C1B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3A66378-DB1E-4428-A04F-325E087AE64D}
+	EndGlobalSection
+EndGlobal
